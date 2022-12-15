@@ -3,3 +3,4 @@ naranjas
 peras
 cambio de repo1
 conflicto repo2
+conflictoR1
