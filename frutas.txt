@@ -2,3 +2,4 @@ platanos y modificacion repo2
 naranjas
 peras
 cambio de repo1
+conflictoR1
