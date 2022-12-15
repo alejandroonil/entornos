@@ -5,3 +5,4 @@ cambio de repo1
 conflicto repo2
 conflictoR1
 fruta de rama1 repo1
+cambio conflicto camilo
